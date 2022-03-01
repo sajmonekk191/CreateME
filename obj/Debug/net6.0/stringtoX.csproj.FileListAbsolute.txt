@@ -1,0 +1,15 @@
+C:\Users\Root\source\repos\stringtoX\stringtoX\bin\Debug\net6.0\stringtoX.exe
+C:\Users\Root\source\repos\stringtoX\stringtoX\bin\Debug\net6.0\stringtoX.deps.json
+C:\Users\Root\source\repos\stringtoX\stringtoX\bin\Debug\net6.0\stringtoX.runtimeconfig.json
+C:\Users\Root\source\repos\stringtoX\stringtoX\bin\Debug\net6.0\stringtoX.dll
+C:\Users\Root\source\repos\stringtoX\stringtoX\bin\Debug\net6.0\ref\stringtoX.dll
+C:\Users\Root\source\repos\stringtoX\stringtoX\bin\Debug\net6.0\stringtoX.pdb
+C:\Users\Root\source\repos\stringtoX\stringtoX\obj\Debug\net6.0\stringtoX.csproj.AssemblyReference.cache
+C:\Users\Root\source\repos\stringtoX\stringtoX\obj\Debug\net6.0\stringtoX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Root\source\repos\stringtoX\stringtoX\obj\Debug\net6.0\stringtoX.AssemblyInfoInputs.cache
+C:\Users\Root\source\repos\stringtoX\stringtoX\obj\Debug\net6.0\stringtoX.AssemblyInfo.cs
+C:\Users\Root\source\repos\stringtoX\stringtoX\obj\Debug\net6.0\stringtoX.csproj.CoreCompileInputs.cache
+C:\Users\Root\source\repos\stringtoX\stringtoX\obj\Debug\net6.0\stringtoX.dll
+C:\Users\Root\source\repos\stringtoX\stringtoX\obj\Debug\net6.0\ref\stringtoX.dll
+C:\Users\Root\source\repos\stringtoX\stringtoX\obj\Debug\net6.0\stringtoX.pdb
+C:\Users\Root\source\repos\stringtoX\stringtoX\obj\Debug\net6.0\stringtoX.genruntimeconfig.cache

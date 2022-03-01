@@ -1,0 +1,15 @@
+C:\Users\Root\source\repos\CreateME\CreateMe\bin\Release\net6.0\win-x64\CreateME.exe
+C:\Users\Root\source\repos\CreateME\CreateMe\bin\Release\net6.0\win-x64\CreateME.deps.json
+C:\Users\Root\source\repos\CreateME\CreateMe\bin\Release\net6.0\win-x64\CreateME.runtimeconfig.json
+C:\Users\Root\source\repos\CreateME\CreateMe\bin\Release\net6.0\win-x64\CreateME.dll
+C:\Users\Root\source\repos\CreateME\CreateMe\bin\Release\net6.0\win-x64\ref\CreateME.dll
+C:\Users\Root\source\repos\CreateME\CreateMe\bin\Release\net6.0\win-x64\CreateME.pdb
+C:\Users\Root\source\repos\CreateME\CreateMe\obj\Release\net6.0\win-x64\CreateME.csproj.AssemblyReference.cache
+C:\Users\Root\source\repos\CreateME\CreateMe\obj\Release\net6.0\win-x64\CreateME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Root\source\repos\CreateME\CreateMe\obj\Release\net6.0\win-x64\CreateME.AssemblyInfoInputs.cache
+C:\Users\Root\source\repos\CreateME\CreateMe\obj\Release\net6.0\win-x64\CreateME.AssemblyInfo.cs
+C:\Users\Root\source\repos\CreateME\CreateMe\obj\Release\net6.0\win-x64\CreateME.csproj.CoreCompileInputs.cache
+C:\Users\Root\source\repos\CreateME\CreateMe\obj\Release\net6.0\win-x64\CreateME.dll
+C:\Users\Root\source\repos\CreateME\CreateMe\obj\Release\net6.0\win-x64\ref\CreateME.dll
+C:\Users\Root\source\repos\CreateME\CreateMe\obj\Release\net6.0\win-x64\CreateME.pdb
+C:\Users\Root\source\repos\CreateME\CreateMe\obj\Release\net6.0\win-x64\CreateME.genruntimeconfig.cache

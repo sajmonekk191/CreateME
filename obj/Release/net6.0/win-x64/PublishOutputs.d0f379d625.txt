@@ -1,0 +1,2 @@
+C:\Users\Root\source\repos\CreateME\CreateMe\bin\Release\net6.0\win-x64\publish\CreateME.pdb
+C:\Users\Root\source\repos\CreateME\CreateMe\bin\Release\net6.0\win-x64\publish\CreateME.exe
